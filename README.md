@@ -1,4 +1,4 @@
-Translations System v1.0
+Translations Resource v1.0
 ===========
 
 A very small translation resource for MTA:SA, scripted in MoonScript
