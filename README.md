@@ -1,4 +1,6 @@
-translation
+Translations System v1.0
 ===========
 
-A translation resource for MTA:SA
+A very small translation resource for MTA:SA, scripted in MoonScript
+
+With this resource you can easily implement multilinguality in your script and interfaces.
