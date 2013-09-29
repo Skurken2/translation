@@ -1,0 +1,13 @@
+<translations>
+	<language name='English'>
+		<string id='HELLO' text='Hello'/>
+		<string id='YES' text='Yes'/>
+		<string id='NO' text='No'/>
+		<string id='LOGIN_REGISTER_MESSAGE' text='Please login or register to continue'/>
+	</language>
+	<language name='German'>
+		<string id='HELLO' text='Hallo'/>
+		<string id='YES' text='Ja'/>
+		<string id='NO' text='Nein'/>
+	</language>
+</translations>
