@@ -1,5 +1,5 @@
 <meta>
-    <info name='Translations System' author='Skurken' version='1.0'></info>
+    <info name='Translations Resource' author='Skurken' version='1.0'></info>
     <script src='core_server.lua'></script>
     <export function='getTranslationTable' type='server'/>
 </meta>
